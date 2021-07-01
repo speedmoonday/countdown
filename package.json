@@ -4,6 +4,6 @@
     "moment": "^2.29.1"
   },
   "script": {
-    "start": "node Countdown.js"
+    "start": "node countdown.js"
   }
 }
