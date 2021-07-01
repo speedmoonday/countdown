@@ -1,1 +1,1 @@
-worker: node Countdown.js
+worker: node countdown.js
