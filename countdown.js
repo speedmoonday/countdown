@@ -37,4 +37,4 @@ client.on("ready", () => {
 })
 
 
-client.login("ODUxMDIwMjA3NDQ2Mjk0NTM4.YLyMVA.GeyuBev6Yep2mbMyR2qFCQeWqbk")
+client.login(process.env.TOKEN)
